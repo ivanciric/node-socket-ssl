@@ -13,5 +13,5 @@ server.listen(8181); // whichever port you want to use
 
 // rest of the code
 io.sockets.on('connection', function (socket) {
-    // ...
+    // code
 });
